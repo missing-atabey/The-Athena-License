@@ -104,12 +104,12 @@ Military Use does not include:
 * 2. Grant of Rights
 
 Subject to the conditions of this License, every recipient is granted a worldwide, non-exclusive, royalty-free license to:
-- use the Software;
-- study the Software;
-- modify the Software;
-- create Derivative Works;
-- redistribute the Software;
-- redistribute Derivative Works.
+- use the Software
+- study the Software
+- modify the Software
+- create Derivative Works
+- redistribute the Software
+- redistribute Derivative Works
 
 Commercial use is expressly permitted except where otherwise prohibited by this License.
 
