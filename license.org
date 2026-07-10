@@ -33,7 +33,8 @@ The Software should not materially contribute to warfare or the development or o
 
 The Author grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
 
-	* Definitions
+
+* Definitions
 
 For purposes of this License:
 ** 1.1 Software
@@ -45,15 +46,15 @@ For purposes of this License:
 ** 1.3 Generative Artificial Intelligence System
 
 A “Generative Artificial Intelligence System” means any computational model or software system whose primary purpose is generating expressive or creative output from learned statistical representations, including but not limited to:
-* natural language;
-* source code;
-* images;
-* audio;
-* music;
-* video;
-* three-dimensional assets;
-* synthetic media;
-* multimodal content.
+- natural language
+- source code
+- images
+- audio
+- music
+- video
+- three-dimensional assets
+- synthetic media
+- multimodal content
 
 This definition includes foundation models, large language models, diffusion models, generative transformers, multimodal generative models, and substantially similar technologies regardless of implementation.
 ** 1.4 Permitted Machine Learning
