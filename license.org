@@ -4,7 +4,7 @@
 #+DATE: 2026
 #+Source:[insert GitHub source]
 
-A Human-Centsred, Peace-Oriented, Source-Available Software License
+A Human-Centered, Peace-Oriented, Source-Available Software License
 
 * For use with: [Project Name]
 Copyright (c) [Year] [Copyright Holder]
