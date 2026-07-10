@@ -34,7 +34,7 @@ The Software should not materially contribute to warfare or the development or o
 The Author grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
 
 
-* Definitions
+1. * Definitions
 
 For purposes of this License:
 ** 1.1 Software
