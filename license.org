@@ -60,76 +60,77 @@ This definition includes foundation models, large language models, diffusion mod
 ** 1.4 Permitted Machine Learning
 
 “Permitted Machine Learning” means machine learning or statistical techniques whose primary purpose is analysis rather than content generation, including but not limited to:
-* classification;
-* regression;
-* anomaly detection;
-* forecasting;
-* optimization;
-* recommendation;
-* control systems;
-* accessibility technologies;
-* robotics;
-* industrial automation;
-* medical diagnosis;
-* scientific modeling;
-* engineering simulation.
+- classification
+- regression
+- anomaly detection
+- forecasting
+- optimization
+- recommendation
+- control systems
+- accessibility technologies
+- robotics
+- industrial automation
+- medical diagnosis
+- scientific modeling
+- engineering simulation
 
 Such use is permitted provided it does not materially contribute to the development, evaluation, improvement, or operation of a Generative Artificial Intelligence System.
 ** 1.5 Military Use
 
 “Military Use” means use of the Software by, for, or on behalf of any armed force, military organization, defense contractor, intelligence organization, or comparable entity where the Software materially contributes to:
-* development of weapons;
-* operation of weapons;
-* military targeting;
-* surveillance supporting armed conflict;
-* combat systems;
-* command and control systems;
-* military intelligence;
-* combat logistics;
-* military planning;
-* military training for armed conflict;
-* deployment or execution of military operations.
+- development of weapons
+- operation of weapons
+- military targeting
+- surveillance supporting armed conflict
+- combat systems
+- command and control systems
+- military intelligence
+- combat logistics
+- military planning
+- military training for armed conflict
+- deployment or execution of military operations
 
 Military Use does not include:
-* disaster response;
-* humanitarian relief;
-* medical treatment;
-* civilian evacuation;
-* search and rescue.
+- disaster response
+- humanitarian relief
+- medical treatment
+- civilian evacuation
+- search and rescue
+
 ** 1.6 Training
 
 “Training” includes collecting, preprocessing, indexing, embedding, fine-tuning, reinforcement learning, retrieval augmentation, parameter optimization, evaluation, benchmarking, or any substantially similar activity intended to improve or enable an artificial intelligence system.
 
-	* Grant of Rights
+* Grant of Rights
 
 Subject to the conditions of this License, every recipient is granted a worldwide, non-exclusive, royalty-free license to:
-* use the Software;
-* study the Software;
-* modify the Software;
-* create Derivative Works;
-* redistribute the Software;
-* redistribute Derivative Works.
+- use the Software;
+- study the Software;
+- modify the Software;
+- create Derivative Works;
+- redistribute the Software;
+- redistribute Derivative Works.
 
 Commercial use is expressly permitted except where otherwise prohibited by this License.
 
-	* Permitted Uses
+* Permitted Uses
 
 The Author expressly permits, among others:
-* scientific research;
-* academic research;
-* engineering;
-* education;
-* commercial software development;
-* accessibility technologies;
-* robotics;
-* embedded systems;
-* medical research;
-* healthcare;
-* industrial automation;
-* infrastructure;
-* cybersecurity;
-* data analysis;
-* non-generative machine learning.
+- scientific research
+- academic research
+- engineering
+- education
+- commercial software development
+- accessibility technologies
+- robotics
+- embedded systems
+- medical research
+- healthcare
+- industrial automation
+- infrastructure
+- cybersecurity
+- data analysis
+- non-generative machine learning
 
 No permission is required beyond compliance with this License.
 
