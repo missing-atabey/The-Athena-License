@@ -34,7 +34,7 @@ The Software should not materially contribute to warfare or the development or o
 The Author grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
 
 
-1. * Definitions
+* 1. Definitions
 
 For purposes of this License:
 ** 1.1 Software
@@ -101,7 +101,7 @@ Military Use does not include:
 
 “Training” includes collecting, preprocessing, indexing, embedding, fine-tuning, reinforcement learning, retrieval augmentation, parameter optimization, evaluation, benchmarking, or any substantially similar activity intended to improve or enable an artificial intelligence system.
 
-* Grant of Rights
+* 2. Grant of Rights
 
 Subject to the conditions of this License, every recipient is granted a worldwide, non-exclusive, royalty-free license to:
 - use the Software;
@@ -113,7 +113,7 @@ Subject to the conditions of this License, every recipient is granted a worldwid
 
 Commercial use is expressly permitted except where otherwise prohibited by this License.
 
-* Permitted Uses
+* 3. Permitted Uses
 
 The Author expressly permits, among others:
 - scientific research
@@ -134,62 +134,65 @@ The Author expressly permits, among others:
 
 No permission is required beyond compliance with this License.
 
-	* Prohibited Uses
+* 4. Prohibited Uses
 
 The following uses are prohibited.
 ** 4.1 Generative Artificial Intelligence
 
 The Software, in whole or in part, may not be used to:
-* develop;
-* train;
-* fine-tune;
-* benchmark;
-* evaluate;
-* improve;
-* operate;
-* maintain
+- develop
+- train
+- fine-tune
+- benchmark
+- evaluate
+- improve
+- operate
+- maintain
 
 a Generative Artificial Intelligence System.
 ** 4.2 Training Data
 
 The Software may not be:
-* included within training datasets;
-* tokenized for model training;
-* embedded into retrieval systems;
-* indexed for generative retrieval;
-* used as prompt context for automated code generation;
-* used as reference material for creation or improvement of Generative Artificial Intelligence Systems.
+- included within training datasets
+- tokenized for model training
+- embedded into retrieval systems
+- indexed for generative retrieval
+- used as prompt context for automated code generation
+- used as reference material for creation or improvement of Generative Artificial Intelligence Systems
+
 ** 4.3 Derivative AI Works
 
 No person may use a Generative Artificial Intelligence System to generate derivative versions of the Software for redistribution where the Software materially contributed to the generated output.
+
 ** 4.4 Military Applications
 
 The Software shall not be used for any Military Use as defined in Section 1.5.
+
 ** 4.5 Circumvention
 
 No person may intentionally circumvent these restrictions through intermediaries, affiliates, contractors, automated systems, or substantially equivalent technical means.
 
-	* Redistribution
+* 5. Redistribution
 
 Redistributions of the Software or Derivative Works must:
-* retain this License in its entirety;
-* retain all copyright notices;
-* identify significant modifications made to the Software;
-* include a copy of this License with every distribution.
+- retain this License in its entirety
+- retain all copyright notices
+- identify significant modifications made to the Software
+- include a copy of this License with every distribution
 
-	* Warranty
+* 6. Warranty
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-	* Limitation of Liability
+* 7. Limitation of Liability
 
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-	* Severability
+* 8. Severability
 
 If any provision of this License is found unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
 
-	* Remedies and Remediation
+* 9. Remedies and Remediation
 
 In the event that a court of competent jurisdiction determines that a party has materially violated this License, the violating party shall be liable for all remedies available under applicable law.
 
@@ -201,11 +204,10 @@ Nothing in this License shall be interpreted as granting the Author authority to
 
 The purpose of remediation under this License is not punitive enforcement, but restoration of affected parties and reduction of ongoing harm resulting from unauthorized use.
 
-	* Interpretation
+* 10. Interpretation
 
 This License shall be interpreted according to the following principles:
-* Permission should be construed broadly where ambiguity exists regarding ordinary software development.
-* Restrictions should be construed according to their stated ethical purpose without extending beyond their objective definitions.
-* Scientific, educational, medical, accessibility, and humanitarian applications are presumed permitted unless they materially violate an explicit prohibition.
-* Ambiguity regarding Generative Artificial Intelligence shall be resolved according to the primary purpose of the system rather than incidental functionality.
-*
+- Permission should be construed broadly where ambiguity exists regarding ordinary software development
+- Restrictions should be construed according to their stated ethical purpose without extending beyond their objective definitions
+- Scientific, educational, medical, accessibility, and humanitarian applications are presumed permitted unless they materially violate an explicit prohibition
+- Ambiguity regarding Generative Artificial Intelligence shall be resolved according to the primary purpose of the system rather than incidental functionality
