@@ -10,9 +10,9 @@ A Human-Centered, Peace-Oriented, Source-Available Software License
 Copyright (c) [Year] [Copyright Holder]
 * Preamble
 
-The Athena License (TAL) exists to preserve the freedom of people to study, use, modify, and share software while establishing ethical limitations on uses that are inconsistent with the Author’s intent.
+The Athena License (TAL) exists to preserve the freedom of people to study, use, modify, and share software while establishing ethical limitations on uses that are inconsistent with the Licensor's intent.
 
-Modern software has become a foundational component of scientific discovery, education, commerce, accessibility, medicine, engineering, and countless other beneficial endeavors. The Author encourages these uses and believes that software should continue to empower individuals and communities.
+Modern software has become a foundational component of scientific discovery, education, commerce, accessibility, medicine, engineering, and countless other beneficial endeavors. The Licensor encourages these uses and believes that software should continue to empower individuals and communities.
 
 At the same time, emerging technologies present novel ethical concerns. Large-scale generative artificial intelligence systems and military applications may contribute to societal harms, including but not limited to displacement of human creative labor, unauthorized appropriation of creative works, concentration of technological power, environmental impacts associated with large-scale computational infrastructure, and the development or deployment of systems intended to facilitate armed conflict.
 
@@ -33,7 +33,7 @@ Research, engineering, medicine, accessibility, and education should remain unre
 The Software should not materially contribute to warfare or the development or operation of systems intended to facilitate armed conflict.
 - *Freedom carries responsibility.*
 
-The Author grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
+The Licensor grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
 
 
 * 1. Definitions
@@ -117,7 +117,7 @@ Commercial use is expressly permitted except where otherwise prohibited by this 
 
 * 3. Permitted Uses
 
-The Author expressly permits, among others:
+The Licensor expressly permits, among others:
 - scientific research
 - academic research
 - engineering
@@ -188,7 +188,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 * 7. Limitation of Liability
 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+IN NO EVENT SHALL THE CONTRIBUTORS OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 * 8. Severability
 
@@ -198,11 +198,11 @@ If any provision of this License is found unenforceable, the remaining provision
 
 In the event that a court of competent jurisdiction determines that a party has materially violated this License, the violating party shall be liable for all remedies available under applicable law.
 
-Where a violation results in demonstrable harm to individuals, communities, organizations, or other affected parties, the Author may seek appropriate legal remedies, including but not limited to monetary damages, injunctive relief, corrective action, remediation efforts, and other equitable remedies as permitted by law.
+Where a violation results in demonstrable harm to individuals, communities, organizations, or other affected parties, the Licensor may seek appropriate legal remedies, including but not limited to monetary damages, injunctive relief, corrective action, remediation efforts, and other equitable remedies as permitted by law.
 
 The court may consider the nature, severity, duration, and consequences of the violation when determining appropriate remedies. Such remedies may include reasonable actions intended to mitigate, repair, or offset harms caused by the violation.
 
-Nothing in this License shall be interpreted as granting the Author authority to impose penalties, damages, or obligations beyond those available through applicable legal processes.
+Nothing in this License shall be interpreted as granting the Licensor authority to impose penalties, damages, or obligations beyond those available through applicable legal processes.
 
 The purpose of remediation under this License is not punitive enforcement, but restoration of affected parties and reduction of ongoing harm resulting from unauthorized use.
 
