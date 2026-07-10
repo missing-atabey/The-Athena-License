@@ -20,16 +20,16 @@ Nothing in this Preamble shall be interpreted as creating enforceable obligation
 * Guiding Principles (Non-Binding)
 
 The Athena License is founded upon four principles:
-- ** /Human creativity deserves respect./
+- *Human creativity deserves respect.*
 
 Software should not be used to facilitate systems that appropriate or replace human creative expression through generative modeling.
-- ** /Science benefits humanity./
+- *Science benefits humanity.*
 
 Research, engineering, medicine, accessibility, and education should remain unrestricted wherever possible.
-- ** /Technology should preserve life./
+- *Technology should preserve life.*
 
 The Software should not materially contribute to warfare or the development or operation of systems intended to facilitate armed conflict.
-- ** /Freedom carries responsibility./
+- *Freedom carries responsibility.*
 
 The Author grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
 
