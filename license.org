@@ -1,8 +1,10 @@
-#+TITLE: The Athena License (TAL) 0.1
-#+SUBTITLE: A Human and Peace-Centered Source-Available Software License
+#+TITLE: The Athena License
+#+SUBTITLE: Version 0.1
 #+AUTHOR: Missing-Atabey
 #+DATE: 2026
 #+Source:[insert GitHub source]
+
+A Human-Centsred, Peace-Oriented, Source-Available Software License
 
 * For use with: [Project Name]
 Copyright (c) [Year] [Copyright Holder]
