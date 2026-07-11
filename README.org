@@ -1,0 +1,6 @@
+* The Athena License
+
+This license is made for our current era--that of exploitative technologies, unethical sourcing of data, consolidation of technological resources, and of militarization of technologies that could be used to aid the general populace. It's goal is to ensure open access to all who wish to use or contribute to software so long as we ensure that humman brilliance and creativity is enshrined, and that our actions are forbidden from contributing to the aid of our fellow man.
+
+** Version (0.2)
+In this iteration we have addressed as much as possible to ensure legal clarity and fallbacks in case of unfair litigation. Version 0.2 is the community revision version of the license, allowing all who care for this licensing type to contribute and offer their input.
