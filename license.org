@@ -59,7 +59,10 @@ Accepted Contribution means a Contribution that has been incorporated into the S
 ** 1.7 Derivative Work
 “Derivative Work” means any modification, adaptation, translation, extension, or other work based substantially upon the Software as recognized under applicable copyright law.
 
-** 1.8 Generative Artificial Intelligence System
+** 1.8 Materially Contributes
+Materially Contributes means contributing in a substantial, direct, or reasonably foreseeable manner to the design, development, training, improvement, deployment, operation, or effectiveness of a system, rather than through incidental, insignificant, or generalized use.
+
+** 1.9 Generative Artificial Intelligence System
 A “Generative Artificial Intelligence System” means any computational model or software system whose primary purpose is generating expressive or creative output from learned statistical representations, including but not limited to:
 - natural language
 - source code
@@ -73,7 +76,7 @@ A “Generative Artificial Intelligence System” means any computational model 
 
 This definition includes foundation models, large language models, diffusion models, generative transformers, multimodal generative models, and substantially similar technologies regardless of implementation.
 
-** 1.9 Permitted Machine Learning
+** 1.10 Permitted Machine Learning
 “Permitted Machine Learning” means machine learning or statistical techniques whose primary purpose is analysis rather than content generation, including but not limited to:
 - classification
 - regression
@@ -91,8 +94,8 @@ This definition includes foundation models, large language models, diffusion mod
 
 Such use is permitted provided it does not materially contribute to the development, evaluation, improvement, or operation of a Generative Artificial Intelligence System.
 
-** 1.10 Military Use
-“Military Use” means use of the Software by, for, or on behalf of any armed force, military organization, defense contractor, intelligence organization, or comparable entity where the Software materially contributes to:
+** 1.11 Military Use
+“Military Use” means use of the Software by, for, or on behalf of any armed force, military organization, defense contractor, intelligence organization, or comparable entity where the Software Materially Contributes to:
 - development of weapons
 - operation of weapons
 - military targeting
@@ -112,11 +115,11 @@ Military Use does not include:
 - civilian evacuation
 - search and rescue
 
-** 1.11 Training
+** 1.12 Training
 “Training” includes collecting, preprocessing, indexing, embedding, fine-tuning, reinforcement learning, retrieval augmentation, parameter optimization, evaluation, benchmarking, or any substantially similar activity intended to improve or enable an artificial intelligence system.
 
 * 2. Grant of Rights
-Subject to the conditions of this License, every Licensee is granted a worldwide, non-exclusive, royalty-free license to:
+Subject to the conditions of this License, the Licensor grants each Licensee a worldwide, non-exclusive, royalty-free license to:
 - reproduce the software
 - use the Software
 - study the Software
@@ -209,7 +212,7 @@ Nothing in this License shall be interpreted as granting the Licensor authority 
 The purpose of remediation under this License is not punitive enforcement, but restoration of affected parties and reduction of ongoing harm resulting from unauthorized use.
 
 * 10. Patent Grant
-Each Contributor automatically grants every Licensee a perpetual, worldwide, royalty-free license to use any patents owned or controlled by that Contributor that would otherwise be infringed by using, modifying, or distributing the Contributor's accepted Contribution as part of the Software.
+Each Contributor automatically grants every Licensee a perpetual, worldwide, royalty-free license to use any patents owned or controlled by that Contributor that would otherwise be infringed by using, modifying, or distributing the Contributor's Accepted Contribution as part of the Software.
 
 * 11. Patent Retaliation
 If any Licensee initiates patent litigation alleging that the Software or a Contribution infringes a patent, all patent licenses granted under this License to that Licensee terminate upon commencement of such litigation.
