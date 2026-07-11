@@ -8,7 +8,7 @@ After seeing someone implement a similar concept and put it up on github, i was 
 
 Athena aims to back developers who care for open-source development but object to the exploitation of their brethren through the usage of generative ai and its development. It aims to be for those who oppose the harm of the innocent worldwide. It is for developers with a moral compass.
 
-We have been inspired in part by the MIT and Apache licenses and they serve as guides for how to structure our own license without falling into potential legal traps.
+We have been inspired in part by the MIT and Apache licenses, and they serve as guides for how to structure our own license without falling into potential legal traps.
 
 ** Version (0.2)
 In this iteration we have addressed as much as possible to ensure legal clarity and fallbacks in case of unfair litigation. Version 0.2 is the community revision version of the license, allowing all who care for this licensing type to contribute and offer their input.
