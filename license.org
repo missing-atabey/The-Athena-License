@@ -1,5 +1,5 @@
 #+TITLE: The Athena License
-#+SUBTITLE: Version 0.1
+#+SUBTITLE: Version 0.2
 #+AUTHOR: Missing-Atabey
 #+DATE: 2026
 #+Source:[insert GitHub source]
