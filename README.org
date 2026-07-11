@@ -12,3 +12,10 @@ We have been inspired in part by the MIT and Apache licenses, and they serve as 
 
 ** Version (0.2)
 In this iteration we have addressed as much as possible to ensure legal clarity and fallbacks in case of unfair litigation. Version 0.2 is the community revision version of the license, allowing all who care for this licensing type to contribute and offer their input.
+
+As of 0.2 Athena remains unrevised by a legal advisor. As soon as we gain traction we will work closely with a legal advisor to ensure Athena is as polished and as legally grounded as we want it to be.
+
+** Usage
+Prior to using this license it is highly encouraged to read the entire license's body and ensure u agree with it's philosophy. It isn't super long, I promise :)
+
+If you've decided to utilize Athena on your next project simply "git clone" or download the License into your project directory. Now you'll be free to work and rest assured there's a clear explanation of your licensing terms & conditions.
